@@ -24,37 +24,38 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" title="Selenium"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
-    <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://testng.org/" target="_blank" rel="noreferrer" title="TestNG"> 
     <img src="https://shorturl.at/yDH19" alt="testng" width="40" height="40"/> 
   </a>
-    <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer" title="Cucumber"> 
     <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" alt="cucumber" width="40" height="40"/> 
   </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer" title="Maven"> 
     <img src="https://github.com/cvir3/cvir3/raw/main/img/Maven.png" alt="maven" width="40" height="40"/> 
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-   <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer" title="JMeter"> 
     <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/> 
   </a>
-    <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer" title="RestAssured"> 
     <img src="https://rest-assured.io/img/logo-transparent.png" alt="restAssured" width="40" height="40"/> 
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" title="Jenkins"> 
     <img src="https://github.com/cvir3/cvir3/raw/main/img/Jenkins.png" alt="jenkins" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-    <a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer"> 
+  <a href="https://www.atlassian.com/agile" target="_blank" rel="noreferrer" title="Agile"> 
     <img src="https://github.com/cvir3/cvir3/raw/main/img/Agile.png" alt="agile" width="40" height="40"/> 
   </a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
