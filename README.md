@@ -27,6 +27,9 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
+    <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://shorturl.at/yDH19" alt="postman" width="40" height="40"/> 
+  </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/cvir3/cvir3/raw/main/img/Maven.png" alt="maven" width="40" height="40"/> 
   </a>
