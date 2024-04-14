@@ -60,9 +60,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-harjani" target="blank" title="LinkedIn">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-harjani" height="30" width="40" />
+  <img align="center" src="https://github.com/cvir3/cvir3/raw/main/img/linkedin.svg" alt="yash-harjani" height="30" width="40" />
 </a>
 <a href="mailto:yashharjani2001@gmail.com" target="blank" title="Mail">
-  <img align="center" src="https://raw.githubusercontent.com/cvir3/cvir3/main/img/gmail.svg" alt="yash-harjani" height="30" width="40" />
+  <img align="center" src="https://github.com/cvir3/cvir3/raw/main/img/gmail.svg" alt="yash-harjani" height="30" width="40" />
 </a>
 </p>
