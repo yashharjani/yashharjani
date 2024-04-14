@@ -42,6 +42,9 @@
    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/> 
   </a>
+    <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://rest-assured.io/img/name-transparent.png" alt="restAssured" width="40" height="40"/> 
+  </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/cvir3/cvir3/raw/main/img/Jenkins.png" alt="jenkins" width="40" height="40"/> 
   </a>
