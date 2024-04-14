@@ -28,7 +28,10 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
     <a href="https://testng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://shorturl.at/yDH19" alt="postman" width="40" height="40"/> 
+    <img src="https://shorturl.at/yDH19" alt="testng" width="40" height="40"/> 
+  </a>
+    <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" alt="cucumber" width="40" height="40"/> 
   </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/cvir3/cvir3/raw/main/img/Maven.png" alt="maven" width="40" height="40"/> 
@@ -37,7 +40,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
    <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://jmeter.apache.org/images/logo.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/> 
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/cvir3/cvir3/raw/main/img/Jenkins.png" alt="jenkins" width="40" height="40"/> 
