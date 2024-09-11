@@ -62,7 +62,7 @@
 <a href="https://linkedin.com/in/yash-harjani" target="blank" title="LinkedIn">
   <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="mailto:yashharjani2001@gmail.com" target="blank" title="Mail">
+<a href="mailto:yashharrjanni@gmail.com" target="blank" title="Mail">
   <img align="center" src="https://github.com/cvir3/cvir3/raw/main/img/gmail.svg" alt="mailId" height="30" width="40" />
 </a>
 </p>
