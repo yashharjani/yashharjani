@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Harjani</h1>
-<h3 align="center">Results-oriented QA Engineer with 1+ years of experience in manual and automated testing across diverse software projects. Skilled in a variety of testing tools and frameworks, including Selenium, TestNG, Cucumber, REST Assured, and API testing tools. Possess strong analytical and problem-solving skills to identify, document, and track defects effectively. Adaptable and eager to learn new technologies to contribute to a collaborative development environment.</h3>
+<h3 align="center">Results-oriented QA Engineer with over a year of experience in automated and manual testing across diverse software projects. Proficient in testing tools and frameworks such as Selenium, TestNG, Cucumber, REST Assured, and API testing, with a strong command of Java. Skilled in identifying, documenting, and tracking defects, with excellent analytical and problem-solving abilities. Adaptable and eager to learn new technologies, contributing effectively to collaborative development environments.</h3>
 
 <p align="center">
   <a href="https://github.com/yashharjani" target="_blank" rel="noreferrer">
@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
   </a>
   <a href="https://testng.org/" target="_blank" rel="noreferrer" title="TestNG"> 
-    <img src="https://shorturl.at/yDH19" alt="testng" width="40" height="40"/> 
+    <img src="https://banner2.cleanpng.com/20180816/eej/f5e89d12b09a007df882894bf58820c4.webp" alt="testng" width="40" height="40"/> 
   </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer" title="Cucumber"> 
     <img src="https://cucumber.io/cucumber/media/images/logos/icons/cucumber-open-icon.svg" alt="cucumber" width="40" height="40"/> 
@@ -60,7 +60,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yash-harjani" target="blank" title="LinkedIn">
-  <img align="center" src="https://shorturl.at/DSY19" alt="linkedin" height="30" width="40" />
+  <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" alt="linkedin" height="30" width="40" />
 </a>
 <a href="mailto:yashharjani2001@gmail.com" target="blank" title="Mail">
   <img align="center" src="https://github.com/cvir3/cvir3/raw/main/img/gmail.svg" alt="mailId" height="30" width="40" />
