@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Harjani</h1>
-<h3 align="center">Software developer with hands-on experience in Python scripting, automation, and API integrations, complemented by full-stack and cloud development. Skilled in building custom tools, prototyping applications, and streamlining workflows with Python, REST APIs, and cloud services (AWS, GCP). Comfortable working with Git, Linux environments, and AI-assisted development tools. Strong problem-solver with experience transforming concepts into functional prototypes that improve efficiency.</h3>
+<h3 align="center">Software developer with hands-on experience in Python scripting, automation, Java, Spring Boot and API integrations, complemented by full-stack and cloud development. Skilled in building custom tools, prototyping applications, and streamlining workflows with Python, REST APIs, and cloud services (AWS, GCP). Comfortable working with Git, Linux environments, and AI-assisted development tools. Strong problem-solver with experience transforming concepts into functional prototypes that improve efficiency.</h3>
 
 <p align="center">
   <a href="https://github.com/yashharjani" target="_blank" rel="noreferrer">
